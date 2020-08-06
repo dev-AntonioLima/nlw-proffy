@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Agencia"
+		},
+		{
+			"path": "../../../Downloads/youtube-desvendando-css-grid-master"
+		},
+		{
+			"path": "../../../Downloads/agencia-viagens-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nlw-proffy",
+		"git.ignoreLimitWarning": true
+	}
+}
